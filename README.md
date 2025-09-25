@@ -11,7 +11,7 @@
     <a href="https://discord.com/invite/mJtsHWEQAg">
       <img src="https://lanyard.kyrie25.dev/api/688967048541503506?gradient=E63C80-FFFFFF&showBanner=true&waveColor=F70767&imgStyle=square&imgBorderRadius=20px" />
     </a>
-      <img  src="https://giphy.com/gifs/frog-toad-fric-tpVKvAabWt3G5csMkT" width="200" />
+      <img src="https://giphy.com/gifs/frog-toad-fric-tpVKvAabWt3G5csMkT" style="width: 100%; max-width: 200px; display: block; margin: 0 auto;" />
   </div>
   <br>
   <h2 align="center">From Vietnam with love 💖</h2>
