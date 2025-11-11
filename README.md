@@ -1,7 +1,7 @@
 <body>
 <div align="center">
   <h1>I'm <a href="https://minhkhoi84.github.io/"><i>Minh Khôi</i></a>, welcome to my profile!</h1>
-  <p>I’m so done, don’t wanna do anything -.- </p>
+  <p>I’m so lazy, don’t wanna do anything -.- </p>
   <a href="">
     <img width="100" src="https://i.imgur.com/fXYKU5q.png"/>
   </a>
